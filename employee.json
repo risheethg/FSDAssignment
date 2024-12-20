@@ -1,0 +1,20 @@
+[ 
+    {   
+        "f_Id":"01",
+        "f_img":"",
+        "f_Name":"Risheeth",
+        "f_Email":"risheeth@mail.com",
+        "f_Mobile":"12342345345",
+        "f_Designation":"Big Boss",
+        "f_gender":"M"
+    },
+    {   
+        "f_Id":"02",
+        "f_img": "C:/Dev/FSD Assignment/FSDAssignment/Screenshot 2024-12-20 124033.png",
+        "f_Name":"Pari",
+        "f_Email":"pari@mail.com",
+        "f_Mobile":"12344445345",
+        "f_Designation":"Noona",
+        "f_gender":"F"
+    }
+]
